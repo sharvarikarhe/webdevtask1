@@ -1,0 +1,155 @@
+.navbar{
+    display: flex;
+    background-color: aqua;
+    width: 100%;
+    height: 15vh;
+}
+.logo{
+    display: flex;  
+    flex:1;
+}
+.name{
+    flex:1;
+    font-weight: bold;
+    color:brown;
+
+}
+.content{
+    flex: 1;
+    display: flex;
+    gap: 1%;
+}
+.image{
+    flex: 1;
+}
+.logo img{
+    height: 100%;
+    width: 50%;
+    
+}
+.item{
+    flex:1;
+    text-align: center;
+    font-family: 'Rajdhani', sans-serif;
+    font-size: large;
+}
+.main{
+    display:flex; 
+    height: 85vh;
+}
+.intimg{
+    display:flex;
+    flex:1;
+    justify-content: center;
+    align-items: center;
+}
+.intimg img{
+    height: 80vh;
+    width: 70%;
+}
+.intro{
+    flex:1;
+    text-align: center;
+    font-family: 'Cedarville Cursive', cursive;
+    font-size: 3vh;
+}
+.bestsellers{
+    height: 100vh;
+}
+.title{
+    text-align: center;
+    font-weight: Bold;
+    font-size: 6vh;
+}
+.b1{
+    display:flex;
+    height:47vh;
+}
+.best1{
+    flex:1;
+}
+.btitle{
+    height: 4vh;
+}
+.best2{
+    flex:1;
+}
+ .bimg img{
+    height: 90%;
+    width: 100%;
+    flex:1;
+}
+.bimg{
+    display:flex;
+    height: 43vh;
+    width: 25vw;
+    flex:1;
+}
+.info{
+    display: flex;
+}
+.binfo{
+    flex:1;
+}
+.b2{
+    display:flex;
+    height:47vh;
+}
+.best3{
+    flex:1;
+}
+
+.best4{
+    flex:1;
+}
+.recommended{
+    height: 100vh;
+}
+.r1{
+    display: flex;
+    height: 31.3vh;
+}
+.rec1{
+    flex:1;
+}
+.rec2{
+    flex:1;
+}
+
+.rtitle{
+    height: 2.3vh;
+}
+.rimg{
+    flex:1;
+    height: 29vh;
+    width: 25vw;
+    display: flex;
+}
+.rimg img{
+    height: 90%;
+    width: 1vw;
+    flex:1;
+}
+.rinfo{
+    flex:1;
+}
+.r2{
+    display: flex;
+    height: 31.3vh;
+}
+.rec3{
+    flex:1;
+}
+.rec4{
+    flex:1;
+}
+.r3{
+    display: flex;
+    height: 31.3vh;
+}
+.rec5{
+    flex:1;
+}
+.rec6{
+    flex:1;
+}
